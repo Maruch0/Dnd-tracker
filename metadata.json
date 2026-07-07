@@ -1,0 +1,6 @@
+{
+  "name": "D&D Character Tracker",
+  "description": "A responsive tracker for skills, racial traits, magic items, class features, and spell slots for Dungeons & Dragons 5e.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
